@@ -1,0 +1,32 @@
+# ~/.config/wofi/config
+[wofi]
+# Set default matching strategy
+matching = fuzzy
+# Set default case sensitivity
+insensitive = false
+# Show icons (requires an icon theme to be installed)
+show-icons = true
+# Use dmenu mode
+dmenu = false
+# Border width
+border-width = 2
+# Border color
+border-color = "#ffffff"
+# Border radius
+border-radius = 5
+# Background color
+background-color = "#282828"
+# Text color
+text-color = "#ebdbb2"
+# Selection color
+selection-color = "#98971a"
+# Selected text color
+selected-text-color = "#1d2021"
+# Highlight color
+highlight-color = "#458588"
+# Font
+font = "monospace 10"
+# Width and height of the window
+width = 50%
+height = 50%
+
