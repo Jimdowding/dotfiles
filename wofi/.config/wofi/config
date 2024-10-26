@@ -27,6 +27,6 @@ highlight-color = "#458588"
 # Font
 font = "monospace 10"
 # Width and height of the window
-width = 50%
-height = 50%
+width = 25%
+height = 25%
 
