@@ -18,16 +18,16 @@
        "clock"
     ],
     "modules-right": [
-        //"mpd",
+        "mpd",
         //"idle_inhibitor",
-        //"pulseaudio",
+        "pulseaudio",
         "network",
         "power-profiles-daemon",
         "cpu",
         "memory",
         "temperature",
         "backlight",
-        "hyprland/language",
+        //"hyprland/language",
         "battery",
         //"battery#bat2",
         //"clock",
@@ -188,8 +188,8 @@
     },
     "network": {
         // "interface": "wlp2*", // (Optional) To force the use of this interface
-        //"format-wifi": "{essid} ({signalStrength}%) ",
-        "format-wifi": " {signalStrength}% ",
+        "format-wifi": "{essid} ({signalStrength}%) ",
+        //"format-wifi": " {signalStrength}% ",
 
         "format-ethernet": "{ipaddr}/{cidr} ",
         "tooltip-format": "{ifname} via {gwaddr} ",
