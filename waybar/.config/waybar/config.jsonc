@@ -9,7 +9,7 @@
     "modules-left": [
         "hyprland/workspaces",
         //"hyprland/mode",
-        //"hyprland/scratchpad",
+        "hyprland/scratchpad",
         "custom/media",
         "hyprland/window",
         "keyboard-state"
@@ -28,7 +28,7 @@
         "temperature",
         "backlight",
         //"hyprland/language",
-        "battery",
+        //"battery",
         //"battery#bat2",
         //"clock",
         "tray"
@@ -51,7 +51,7 @@
          }
      },
     "keyboard-state": {
-        "numlock": true,
+       //` "numlock": true,
         "capslock": true,
         "format": "{name} {icon}",
         "format-icons": {
