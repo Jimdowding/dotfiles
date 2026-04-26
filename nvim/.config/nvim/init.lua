@@ -18,5 +18,3 @@ require("vim-options")
 require("lazy").setup("plugins")
 
 
-require("vim-option")
-require("lazy").setup("plugins")
